@@ -14,3 +14,8 @@ print(10 * 5)
 
 # Divisão
 
+print(10 / 5)
+
+# Elevação de numero
+
+print(10**5)
