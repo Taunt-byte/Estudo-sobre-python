@@ -2,8 +2,11 @@
 
 ## Sobre
 
-+ São exercicios simples em python realizado para fixar os conceitos basicos da Linguagem
-+ São feitos com base no bootcamp Cognizant Cloud Data Engineer realizado pela Digital Innovation one
+Esse repositorio tem como objetivo apenas o estudo da linguagem python.
+
++ Execicios 
++ Introdução sobre a linguagem
++ Bibliotecas da linguagem
 
 ## Como esta a nomeclatura
 
