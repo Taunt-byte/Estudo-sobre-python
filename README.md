@@ -12,3 +12,5 @@ Esse repositorio tem como objetivo apenas o estudo da linguagem python.
 
 + ex => exercicio
 + N => Numero da questão
+
+## Machine Learning
