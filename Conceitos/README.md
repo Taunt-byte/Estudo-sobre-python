@@ -1,4 +1,1 @@
-# Os conceitos de python
-
-## Sobre
-
+# Anotações sobre conceitos
