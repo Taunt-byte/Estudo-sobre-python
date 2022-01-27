@@ -1,7 +1,28 @@
-# Anotações sobre conceitos
+# Anotações sobre conceitos da linguagem Python
 
+## Input
 
+Para se fazer um "input" basta escrever:
+    
+    Nome = input("Qual o seu nome?")
 
+O que é escrito no input fica armazenado na variavel.
+
+## Valores e tipos em input
+
+Para se colocar um tipo no input basta escrever:
+
+    idade = int(input("Qual a sua idade"))
+
+## Formatação 
+
+Serve para imprimir argumentos passados a ela (variavel) no terminal.
+
+Exemplo:
+    
+    C = 45
+    F = 1.8 * C = 32
+    print('25 graus celsius =',F,'graus Fahrenheit)
 
 ## Condições if e Else
 
