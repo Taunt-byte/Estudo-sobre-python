@@ -13,7 +13,6 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre](#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Sobre](#sobre)
    * [Instalação](#Instalação)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
@@ -28,9 +27,37 @@ Tabela de conteúdos
 
 Esse repositorio tem como objetivo apenas o estudo da linguagem python e suas bibliotecas sendo assim pode se mudar ao longo do tempo.
 
+## Tabela de conteudo
+
+- [X] 
+- [X] 
+- [X] 
+- [X] 
+
+
+## Instalação
+
+Para instalar esse projeto basta seguir os seguintes passos.
+
+1) Ter esse codigo em sua maquina e para isso basta digitar em seu terminal:
+
+
+## Como Usar
+
+Para utilizar desse projeto basta seguir os seguintes passos.
+
+## Pre requisitos
+
+Para "rodar" esse projeto em sua maquina basta ter os seguintes itens em sua maquina.
+
+1) Git
+
 ## Introdução
 
 ## Machine Learning
+
 ## Inteligencia Artificial
+
 ## Exercicios
+
 ## Tecnologias
