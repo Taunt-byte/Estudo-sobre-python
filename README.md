@@ -29,9 +29,12 @@ Esse repositorio tem como objetivo apenas o estudo da linguagem python e suas bi
 
 ## Tabela de conteudo
 
+- [X] Conceitos
+
 - [X] 
+
 - [X] 
-- [X] 
+
 - [X] 
 
 
