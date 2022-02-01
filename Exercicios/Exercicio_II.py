@@ -2,4 +2,4 @@
 
 nome = input("Qual o seu nome?")
 
-print("é um prazer de conhecer {}".format(nome))
+print("é um prazer de conhecer {}!".format(nome))
