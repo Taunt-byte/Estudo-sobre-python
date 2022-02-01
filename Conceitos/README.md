@@ -34,3 +34,17 @@ processados por um mesmo bloco de código.
 
 É a estrutura de repetição mais usada no Python. Útil para percorrer seqüências ou
 processar iteradores.
+
+## While e Break
+
+### While
+
+Responsavel por realizar uma operação até que uma condição seja alcançada.
+
+Exemplo: while.py
+
+### Break
+
+Responsavel por realizar uma quebra de um loop em condição ou momento especifico
+
+Exemplo: break.py
