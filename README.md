@@ -5,8 +5,7 @@
 </p>
 <h1 align="center">Estudo sobre Python</h1> 
 
-<p align="center"> 
-  Estudos sobre a Liguagem Python e suas aplicações. </p>
+<p align="center">Estudos sobre a Liguagem Python e suas aplicações.</p>
 
 Tabela de conteúdos
 =================
