@@ -48,3 +48,7 @@ Exemplo: while.py
 Responsavel por realizar uma quebra de um loop em condição ou momento especifico
 
 Exemplo: break.py
+
+## Funções
+
+Para se criar uma função basta utilizar da palavra reservada Def como mostra o exemplo do arquivo Funcoes.py
