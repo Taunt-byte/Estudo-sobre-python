@@ -16,10 +16,6 @@ Tabela de conteúdos
    * [Instalação](#Instalação)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
-   * [Introdução a Linguagem](#introdução)
-   * [Machine Learning](#machine-learning)
-   * [Inteligencia Artificial](#inteligencia-artificial)
-   * [Exercicios](#exercicios)
    * [Tecnologias](#tecnologias)
 <!--te-->
 
@@ -31,12 +27,7 @@ Esse repositorio tem como objetivo apenas o estudo da linguagem python e suas bi
 
 - [X] Conceitos
 
-- [X] 
-
-- [X] 
-
-- [X] 
-
+- [X] Exercicios
 
 ## Instalação
 
@@ -54,13 +45,5 @@ Para utilizar desse projeto basta seguir os seguintes passos.
 Para "rodar" esse projeto em sua maquina basta ter os seguintes itens em sua maquina.
 
 1) Git
-
-## Introdução
-
-## Machine Learning
-
-## Inteligencia Artificial
-
-## Exercicios
 
 ## Tecnologias
