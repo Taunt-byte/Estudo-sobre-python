@@ -13,7 +13,6 @@ Tabela de conteúdos
    * [Sobre](#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#Instalação)
-   * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
    * [Tecnologias](#tecnologias)
 <!--te-->
@@ -32,12 +31,9 @@ Esse repositorio tem como objetivo apenas o estudo da linguagem python e suas bi
 
 Para instalar esse projeto basta seguir os seguintes passos.
 
-1) Ter esse codigo em sua maquina e para isso basta digitar em seu terminal:
+  1) Ter esse codigo em sua maquina e para isso basta digitar em seu terminal:
 
-
-## Como Usar
-
-Para utilizar desse projeto basta seguir os seguintes passos.
+    git clone https://github.com/Taunt-byte/Estudos-Sobre-Python.git
 
 ## Pre requisitos
 
@@ -45,4 +41,15 @@ Para "rodar" esse projeto em sua maquina basta ter os seguintes itens em sua maq
 
 1) Git
 
+2) Uma boa IDE
+
 ## Tecnologias
+
+<table>
+    <tr>
+    <td>Python</td>
+    </tr>
+    <tr>
+    <td>3</td>
+    </tr>
+</table>
