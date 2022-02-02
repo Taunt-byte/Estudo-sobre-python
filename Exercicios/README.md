@@ -15,3 +15,7 @@ Respondendo ao usuario
 ## Exercicio III
 
 Somando dois números
+
+## Exercicio IV
+
+Antecessor e Sucessor
