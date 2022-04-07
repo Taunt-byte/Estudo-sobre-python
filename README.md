@@ -11,8 +11,8 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#Instalação)
+   * [Tabela de Conteudo](#tabela-de-conteudo)
       * [Pre Requisitos](#pre-requisitos)
    * [Tecnologias](#tecnologias)
 <!--te-->
@@ -21,13 +21,7 @@ Tabela de conteúdos
 
 Esse repositorio tem como objetivo apenas o estudo da linguagem python e suas bibliotecas sendo assim pode se mudar ao longo do tempo.
 
-## Tabela de conteudo
-
-- [X] Conceitos
-
-- [X] Exercicios
-
-## Instalação
+# Instalação
 
 Para instalar esse projeto basta seguir os seguintes passos.
 
