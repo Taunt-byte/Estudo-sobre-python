@@ -1,49 +1,23 @@
-<p align="center">
-  <a href="https://unform.dev">
-    <img src="img/Logo.png" height="150" width="175" alt="Unform" />
-  </a>
-</p>
-<h1 align="center">Estudo sobre Python</h1> 
+# Linguagem Python e suas bibliotecas
 
-<p align="center">Estudos sobre a Liguagem Python e suas aplicações.</p>
+Este repositório tem como objetivo exclusivo o estudo da linguagem Python e suas bibliotecas, e portanto está sujeito a mudanças ao longo do tempo.
 
-Tabela de conteúdos
-=================
-<!--ts-->
-   * [Sobre](#Sobre)
-   * [Instalação](#Instalação)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-      * [Pre Requisitos](#pre-requisitos)
-   * [Tecnologias](#tecnologias)
-<!--te-->
 
-## Sobre
+## Rodando localmente
 
-Esse repositorio tem como objetivo apenas o estudo da linguagem python e suas bibliotecas sendo assim pode se mudar ao longo do tempo.
+Clone o projeto
 
-# Instalação
+```bash
+  git clone https://github.com/Taunt-byte/Estudos-Sobre-Python.git
 
-Para instalar esse projeto basta seguir os seguintes passos.
+```
 
-  1) Ter esse codigo em sua maquina e para isso basta digitar em seu terminal:
+Entre no diretório do projeto
 
-    git clone https://github.com/Taunt-byte/Estudos-Sobre-Python.git
+```bash
+  cd (nome da pasta)
+```
 
-## Pre requisitos
+# Anotações de bibliotecas e framework 
 
-Para "rodar" esse projeto em sua maquina basta ter os seguintes itens em sua maquina.
-
-1) Git
-
-2) Uma boa IDE
-
-## Tecnologias
-
-<table>
-    <tr>
-    <td>Python</td>
-    </tr>
-    <tr>
-    <td>3</td>
-    </tr>
-</table>
+[Django](Django.md)
